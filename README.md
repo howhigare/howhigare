@@ -2,9 +2,9 @@
 
 <!--
 **howhigare/howhigare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Register - Login](https://github.com/howhigare/howhigare/assets/128337531/88b6ea3d-9698-4474-877f-8a92e9f7e659)
 
 Here are some ideas to get you started:
-![Register - Login](https://github.com/howhigare/howhigare/assets/128337531/e8d83ccf-cb47-435e-aff0-dc8ff8fff344)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
