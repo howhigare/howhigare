@@ -1,5 +1,5 @@
 ### Hello 👋
-<img align="right" alt="maomao" width="400" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" />
+<img align="left" alt="maomao" width="400" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" />
 
 
 <!--
