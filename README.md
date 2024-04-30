@@ -3,6 +3,7 @@
 <!--
 **howhigare/howhigare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Register - Login](https://github.com/howhigare/howhigare/assets/128337531/88b6ea3d-9698-4474-877f-8a92e9f7e659)
+<img align="right" alt="maomao" width="400" src="[https://i.imgur.com/L23H0Ik.gif](https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gi)">
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
