@@ -1,6 +1,5 @@
 ### Hello 👋
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-![myfile](https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif)
+<img align="right" alt="maomao" width="400" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" />
 
 
 <!--
